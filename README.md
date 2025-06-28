@@ -22,7 +22,6 @@
 ## 🔗 Контакты
 
 - 📧 [sudodebug@gmail.com](mailto:sudodebug@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/) 
 - 💼 [hh.ru](https://ekaterinburg.hh.ru/resume/68cfd2c2ff0f02fd320039ed1f456976734169)
 - 🖥️ [GitHub](https://github.com/its-a-live)
 
